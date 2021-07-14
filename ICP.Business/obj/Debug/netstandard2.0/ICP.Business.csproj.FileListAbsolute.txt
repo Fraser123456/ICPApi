@@ -1,0 +1,14 @@
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Business.deps.json
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Business.dll
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Business.pdb
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Core.dll
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Models.dll
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Core.pdb
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\bin\Debug\netstandard2.0\ICP.Models.pdb
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.csprojAssemblyReference.cache
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.AssemblyInfoInputs.cache
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.AssemblyInfo.cs
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.csproj.CoreCompileInputs.cache
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.csproj.CopyComplete
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.dll
+C:\Users\frase\OneDrive\Documents\ICPApp\ICPAPI\ICP.Business\obj\Debug\netstandard2.0\ICP.Business.pdb
